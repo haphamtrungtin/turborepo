@@ -9,7 +9,7 @@ export default async function Products() {
   return (
     <div>
       <h1>Products</h1>
-      <div className="">
+      <div className="â">
         {products.map(product => (
           <div key={product.id}>
             <p>Name: {product.name}</p>
