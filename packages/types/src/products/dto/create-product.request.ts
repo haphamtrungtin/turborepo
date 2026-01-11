@@ -1,4 +1,4 @@
 export class CreateProductRequest {
-  name: string = 'a';
+  name: string = '';
   price: number = 0;
 }
